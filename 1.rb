@@ -1,1 +1,2 @@
-[1,3,5,2,4].Ranges
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+print "Hello HackerRank!!"
